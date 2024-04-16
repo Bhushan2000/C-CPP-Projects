@@ -18,5 +18,10 @@ You have to convert this random matrix to matrix which looks like this:
  # Winning Situation :
  1. Number in a 4*4 matrix should be in order from 1 to 15.<br/><br/>
 ![arranged_matrix](https://github.com/Bhushan2000/C-CPP-Projects/assets/157300484/39d2372c-ba9c-4d79-a403-9a5f293baa2b)
+<br/><br/>
 
-
+ # Tic Tac Toe Game :
+ <br/><br/>
+ ![Screenshot (4)](https://github.com/Bhushan2000/C-CPP-Projects/assets/157300484/3cef0a32-30a2-4adb-8396-61a72ee0b8ce)
+ <br/><br/>
+![Screenshot (3)](https://github.com/Bhushan2000/C-CPP-Projects/assets/157300484/de92e221-e46b-4708-b882-89f664241597)
